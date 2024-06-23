@@ -1,0 +1,24 @@
+#container1 {
+  
+    text-align: center;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    margin: 1em;
+    --background: linear-gradient(#ffffff, #ffffff, #79D4CF);
+}
+
+#input {
+    margin-top: 30px;
+
+}
+
+#button {
+    margin-top: 30px;
+}
+
+#container2 {
+    display: flex;
+    justify-content: space-around;
+    margin-top:4em;
+}

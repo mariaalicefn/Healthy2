@@ -1,0 +1,19 @@
+.ion-padding {
+    text-align: center;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    margin: 1em;
+    --background: linear-gradient(#ffffff,#c6fffa, #79D4CF);
+}
+
+#buttons {
+    margin-top: 30px;
+}
+#but {
+    margin-top: 30px;
+}
+
+#sair {
+    margin-top: 25rem;
+}

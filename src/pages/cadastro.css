@@ -1,0 +1,14 @@
+#container {
+    
+    text-align: center;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    margin: 1em;
+    --background: linear-gradient(#ffffff, #ffffff, #79D4CF);
+}
+
+#h2 {
+    margin-top: -30px;
+    margin-bottom: 30px;
+}
